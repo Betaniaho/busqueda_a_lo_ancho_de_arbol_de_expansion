@@ -17,3 +17,5 @@ El código recorre un árbol de expansión por default de 9 vertices y 8 aristas
 La compilación del código da como salida el vector de vertices visitados por el algoritmo de búsqueda a lo ancho.
 
 ![salida](https://github.com/user-attachments/assets/8b843ed7-5854-4440-a293-045aff559552)
+
+El código puede ser mejorado u optimizado por el usuario final.
