@@ -6,5 +6,7 @@ El código corresponde al pseudocódigo descrito en el libro de Matemáticas dis
 
 El código usa árbol de expansión a recorrer por default, el cual puede modificarse de acuerdo a la necesidad del usuario final.
 ![código_java_busqueda_a_lo_ancho](https://github.com/user-attachments/assets/f9d51566-979a-4cec-8995-5aab892738d6)
+
 La compilación del código da como salida el vector de vertices visitados por el algoritmo de búsqueda a lo ancho.
+
 ![salida](https://github.com/user-attachments/assets/8b843ed7-5854-4440-a293-045aff559552)
